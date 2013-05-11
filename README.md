@@ -2,8 +2,6 @@ Intervaluino
 ============
 An open source intervalometer for DSLR cameras using the Arduino microcontroller
 
->Warning:: This is development level software.  Please do not unless you are familiar with what that means and are comfortable using that type of software.
-
 Usage
 -----
 The Intervaluino is an open hardware intervalometer. It allows you to control your DSLR camera to take a picture every X seconds to create time-lapse videos with excellent picture quality. The Arduino microcontroller used in this project can be programmed via USB to the desired interval. Key features:
@@ -23,6 +21,10 @@ In order to build an Intervaluino you will need to:
 *be familiar with basic Arduino functionality (how to upload code)
 
 In order to use the Intervaluino, you will need to have a camera which accepts *digital* shutter release input - in the current configuration via a 2.5mm stereo jack. If you can find remote shutter release cables for your camera, then the intervaluino will probably work. It won't work with cameras using purely mechanical (piston) or no shutter release input.
+
+Warning
+-------
+The Intervaluino was originally built for a Canon EOS 400D. There are no guarantees that it will work for your brand and model. It might even damage your camera. 
 
 Parts, assembly and installation
 --------------------------------
