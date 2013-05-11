@@ -40,9 +40,9 @@ Contributing
 
 More about Intervaluino
 -----------------------
-[Intervaluino's home] http://timmsuess.com/intervaluino (with pictures)
-[Intervaluino on Make] http://blog.makezine.com/2008/06/22/how-to-timelapse-photos-w/
-[Intervaluino Plus] http://tech.enekochan.com/2012/06/21/intervaluino-plus-a-configurable-intervalometer-made-with-arduino/
+*Intervaluino's home: http://timmsuess.com/intervaluino (with pictures)
+*Intervaluino on Make:  http://blog.makezine.com/2008/06/22/how-to-timelapse-photos-w/
+*Intervaluino Plus:  http://tech.enekochan.com/2012/06/21/intervaluino-plus-a-configurable-intervalometer-made-with-arduino/
 
 License
 -------
