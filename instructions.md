@@ -8,20 +8,20 @@ With the Intervaluino, you are plugging in a homebrew remote control into your d
 
 Parts List
 ----------
-*1 Arduino (I used the Diecimila model) -
-*3x 100 ohm resistors
-*1x 10k ohm resistor
-*2 x 5V reed relays (NO = normally open)
-*1 x push button of your choosing
-*1 x 2.5mm male stereo jack
-*1 x 80 x 50 mm strip board (alternatively: bread board or Arduino protoshield)
-*Assorted wires
-*Arduino USB cable
-*Arduino AC adapter OR Arduino 9V battery pack
-*Basic electronic tools to cut and de-isolate wires and to solder components (if you use a strip board)
-*a multimeter to test connections
-*A nice box
-*20 cm of thin steel cable (used as a loop to attach the Intervaluino to the tripod)
+* 1 Arduino (I used the Diecimila model) -
+* 3x 100 ohm resistors
+* 1x 10k ohm resistor
+* 2 x 5V reed relays (NO = normally open)
+* 1 x push button of your choosing
+* 1 x 2.5mm male stereo jack
+* 1 x 80 x 50 mm strip board (alternatively: bread board or Arduino protoshield)
+* Assorted wires
+* Arduino USB cable
+* Arduino AC adapter OR Arduino 9V battery pack
+* Basic electronic tools to cut and de-isolate wires and to solder components (if you use a strip board)
+* a multimeter to test connections
+* A nice box
+* 20 cm of thin steel cable (used as a loop to attach the Intervaluino to the tripod)
 
 Circuit Diagram
 ---------------
@@ -52,12 +52,12 @@ This is only a short instruction, which assumes that you can read simple circuit
 
 Tips
 ----
-*Use a tripod
-*Set your camera to single shot
-*Consider turning off autofocus – if you follow a static object, you will only have to focus once.
-*For photo series above 1500 shots (or those with flash), get an AC adapter for both your camera and Intervaluino
+* Use a tripod
+* Set your camera to single shot
+* Consider turning off autofocus – if you follow a static object, you will only have to focus once.
+* For photo series above 1500 shots (or those with flash), get an AC adapter for both your camera and Intervaluino
 
 Possible modifications (untested)
 ---------------------------------
-*Instead of reed relays, use optocouplers. This will reduce the Intervaluino's susceptibility to electromagnetic influence. You will likely need to change the resistor values to do this.
-*If your camera features a different kind of electronic remote shutter input, replace the 2.5mm jack with the respective part.
+* Instead of reed relays, use optocouplers. This will reduce the Intervaluino's susceptibility to electromagnetic influence. You will likely need to change the resistor values to do this.
+* If your camera features a different kind of electronic remote shutter input, replace the 2.5mm jack with the respective part.
