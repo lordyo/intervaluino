@@ -62,3 +62,13 @@ buttonState = val;               //switch the button state
 if (on_off == 1) {                //while the sequence is turned on...
 
 digitalWrite(wakepin, HIGH);   //turn wakeup/focus on
+delay(wakeup);                 //keep focus
+digitalWrite(wakepin, LOW);    //turn wakeup off
+delay(wakewait);               //wait
+digitalWrite(outpin, HIGH);    //press the shutter
+delay(shutter_on);             //wait the shutter release time
+digitalWrite(outpin, LOW);     //release shutter
+delay(shutter_off);            //wait for next round
+}
+
+}
